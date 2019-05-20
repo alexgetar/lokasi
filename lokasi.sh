@@ -380,7 +380,7 @@ printf "\e[1;77m | |_____| |_| |( (___ / ___ |  | |_| |_| || |     \e[0m\n"
 printf "\e[1;77m |_______)\___/  \____)\_____|   \__)\___/ |_|    v1.1 \e[0m\n"
 printf "\n"
 printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @alex\e[0m\n"
-
+printf "\e[1;77m date \e[0m\n"
 }
 banner
 dependencies
